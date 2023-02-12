@@ -1,3 +1,4 @@
+![logo](https://github.com/Mayank-umar/Mayank-umar/blob/main/github-header-image(1).png)
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
