@@ -3,7 +3,11 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 # 💫 About Me:
-🔭 I’m currently pursuing B.tech in Computer Science.<br>🌱 I’m currently acquiring new skills and knowledge.<br>💬 Ask me about  Full stack.<br>⚡ Fun fact ~ I am lazy but smart.
+💼 Analyst at TCS.<br>
+💻 Passionate about technology, software, and data-driven solutions.<br>
+🌱 Continuously learning and exploring new technologies.<br>
+💬 Ask me about Full Stack, GIS, and Data Analysis.<br>
+⚡ Fun fact ~ I believe in working smarter, not harder. 😄
 
 
 ## 🌐 Socials:
